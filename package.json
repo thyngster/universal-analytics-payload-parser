@@ -1,9 +1,9 @@
 {
   "name": "universal-analytics-payload-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library for parsing Universal Analytics Payloads",
   "author": "david@analytics-debugger.com",
-  "license": "ISC",
+  "license": "MIT",
   "browser": "build/uaPayloadParser.min.js",
   "devDependencies": {
     "@babel/core": "^7.17.8",
