@@ -36,11 +36,11 @@ export default (config,raw_payload)=>{
         Object.assign(config.mapping.keys, {
             id: 'item_id',
             nm: 'item_name',
-            pr: 'price',
-            qt: 'item_quantity',
             br: 'item_brand',
             va: 'item_variant',
             pal: 'item_list_name',
+            pr: 'price',
+            qt: 'quantity',
             ps: 'index',
             cr: 'creative'
         });
